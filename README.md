@@ -19,7 +19,7 @@ Descripción breve del proyecto.
 2. Instalar las gemas necesarias con Bundler:
 
     ```bash
-    cd tu_proyecto
+    cd contalink_test_backend
     bundle install
     ```
 
