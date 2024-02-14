@@ -1,6 +1,6 @@
 # contalink_test_backend
 
-Descripción breve del proyecto.
+BackEnd que consume la base de datos testinvoice y expone un endpoint para ser consumido por una aplicacion de Angular
 
 ## Requisitos
 
