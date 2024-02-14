@@ -13,7 +13,7 @@ Descripción breve del proyecto.
 1. Clonar el repositorio:
 
     ```bash
-    git@github.com:DelosreyesBueno/contalink_test_backend.git
+    git clone git@github.com:DelosreyesBueno/contalink_test_backend.git
     ```
 
 2. Instalar las gemas necesarias con Bundler:
